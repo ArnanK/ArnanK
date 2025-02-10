@@ -17,19 +17,11 @@ I'm a passionate software engineer and data enthusiast with experience in web de
 ## 🚀 Recent Projects
 
 ### **🌐 Web Development**
-- **Steller Market**  
-  *Developed a secure e-commerce checkout system using Stripe API.*  
-  *Collaborated with a team to engineer a scalable backend and design modern frontend layouts.*
-
 - **RESTful Library App**  
   *Built a full-stack web app featuring CRUD operations and REST API integration.*  
 
-### **📊 Data Analytics**
-- **NYC DOT Dashboard**  
-  *Created an interactive ArcGIS dashboard to display bridge project data with financial insights.*  
-
 - **AQI Prediction**  
-  *Developed a SARIMAX model predicting Air Quality Index with an accuracy difference of ~5.77 AQI.*  
+  *Trained a random forest tree model predicting Air Quality Index.*  
 
 ### **💾 Database Engineering**
 - **Queens College Scheduler**  
@@ -37,9 +29,7 @@ I'm a passionate software engineer and data enthusiast with experience in web de
 
 ---
 
-## 🛠️ Current Work
-- Deploying **Node.js apps with AWS Lambda**  
-- Enhancing **AQI prediction models** with population and renewable energy data trends  
+
 
 ---
 
@@ -50,5 +40,3 @@ I'm a passionate software engineer and data enthusiast with experience in web de
 
 ---
 
-⭐ **"The best way to predict the future is to invent it."**  
-Thanks for visiting my profile! Feel free to check out my repositories or connect. 😊
